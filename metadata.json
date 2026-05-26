@@ -1,0 +1,6 @@
+{
+  "name": "Personal Gallery",
+  "description": "A fully customizable gallery app to import, title, organize private photos and personalize your gallery view with beautiful backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
